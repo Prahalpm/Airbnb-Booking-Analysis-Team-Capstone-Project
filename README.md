@@ -16,20 +16,20 @@ Airbnb is an American company that operates an online marketplace for lodging, p
 
 ## Questions Solved
 
-What can we learn about different hosts and areas?
-Top 10 most listed Hosts
-Count of Room type based on Neighbourhood Group
-The proportion of Hosts listed in all neighbourhood groups based on Host_Id.
-What can we learn from predictions? (ex: locations, prices, reviews, etc.)
-Which Neighbourhood group is the most costly
-Show the top neighbourhoods that have the highest number of properties
-Neighbourhood group with the most no of reviews recorded.
-Which Hosts are the busiest and why?
-How can analysis of this data help in listing new business and setting a price for future property growth?
-Is there any noticeable difference in traffic among different areas and what could be the reason for it?
-Price Distribution concerning neighbourhood groups and why does Manhattan have a high average price?
-Price band, Maximum and Minimum values of each Neighbourhood group.
-Which are the most popular and most occupied room types on basis of their availability?
+1. What can we learn about different hosts and areas?
+  * Top 10 most listed Hosts
+  * Count of Room type based on Neighbourhood Group
+  * The proportion of Hosts listed in all neighbourhood groups based on Host_Id.
+2. What can we learn from predictions? (ex: locations, prices, reviews, etc.)
+  * Which Neighbourhood group is the most costly
+  * Show the top neighbourhoods that have the highest number of properties
+  * Neighbourhood group with the most no of reviews recorded.
+3. Which Hosts are the busiest and why?
+4. How can analysis of this data help in listing new business and setting a price for future property growth?
+5. Is there any noticeable difference in traffic among different areas and what could be the reason for it?
+6. Price Distribution concerning neighbourhood groups and why does Manhattan have a high average price?
+7. Price band, Maximum and Minimum values of each Neighbourhood group.
+8. Which are the most popular and most occupied room types on basis of their availability?
 
 ## 🛠 Language Used
 🐍Python, 🐼Pandas, 📊Data Visualization library like Matplotlib and Seaborn
