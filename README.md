@@ -38,6 +38,12 @@ Airbnb is an American company that operates an online marketplace for lodging, p
 ## 🚀 About Me
 Currently i am an Android developer and soon to be Data Scientist🤯
 
+## ⛓️connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/prahalmendonprofile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prahal" height="30" width="40" /></a>
+</p>
+
 ## Feedback
 
 If you have any feedback, please reach out to us at pmendon28@gmail.com
